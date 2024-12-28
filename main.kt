@@ -1,6 +1,9 @@
-Add these dependencies to your build.gradle.kts file
-implementation("com.squareup.okhttp3:okhttp:4.11.0")
-implementation("com.google.code.gson:gson:2.10.1")
+//Requirements
+//API Key: Sign up at OpenWeatherMap and get your API key.
+//Dependencies: Use a library like OkHttp for making HTTP requests and Gson for parsing JSON.
+//Add these dependencies to your build.gradle.kts file
+//implementation("com.squareup.okhttp3:okhttp:4.11.0")
+//implementation("com.google.code.gson:gson:2.10.1")
 
 import com.google.gson.Gson
 import okhttp3.OkHttpClient
